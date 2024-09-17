@@ -14,7 +14,7 @@ This repository contains a Power BI dashboard created for AdventureWorks, a fict
      - **Profit**: $10.5M
      - **Orders**: 25.2K
      - **Return Rate**: 2.2%
-   - **Revenue Trend**: The revenue trend chart shows a steady increase from January 2020 to the present, with revenue growing from approximately $0.5M to over $1.5M monthly.
+   - **Revenue Trend**: The revenue trend chart shows a steady increase from January 2020 to the 2022, with revenue growing from approximately $0.5M to over $1.5M monthly.
    - **Monthly Performance**:
      - **Revenue**: $1.83M (+3.31% compared to the previous month)
      - **Orders**: 2,146 (-0.88% compared to the previous month)
